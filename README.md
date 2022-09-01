@@ -1,6 +1,6 @@
-# Rode-Home-Page
+# Shopify-Home-Page
 
-Homepage of Rode Webpage
+Homepage of Shopify Webpage
 
 ### Things I Learnt
 - Background positioning With Tailwind Css
